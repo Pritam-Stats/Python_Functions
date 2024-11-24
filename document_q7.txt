@@ -1,0 +1,6 @@
+""""
+"Another text file . ". the function should return this lines.
+
+Data Science with Gen AI
+
+Fibonacci sequence, Golden ratio. It's Fibonacci day.

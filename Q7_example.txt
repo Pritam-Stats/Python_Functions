@@ -1,0 +1,10 @@
+This is a example text file.
+
+For the question 7.
+
+The code is supposed to read this file and returns each line.
+
+lets. check. the. code.
+
+
+"This is the assignment on Python Functions."
